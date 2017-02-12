@@ -1,3 +1,3 @@
 # codetesting
 Learning to code
-USing this to learn how to code
+Using this to learn how to code
